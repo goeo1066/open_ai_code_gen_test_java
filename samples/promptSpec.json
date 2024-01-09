@@ -1,0 +1,19 @@
+{
+  "fileName": "<fileName>",
+  "dependencySpec": {
+    "imports": [
+      "<import statement except leading import keyword>"
+    ]
+  },
+  "classSpec": {
+    "className": "<className>",
+    "methodSignatures": [
+      {
+        "methodSignature": "<methodSignature>",
+        "description": "<description_or_guide_for_the_method>"
+      }
+    ],
+    "description": "<description_or_guide_for_class>"
+  },
+  "description": "<description_or_guide_for_file>"
+}
